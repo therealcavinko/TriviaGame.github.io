@@ -1,0 +1,43 @@
+html {
+	background-image: url("../images/nfl.jpg");
+}
+
+h1 {
+	font-size: 100px;
+	color: red;
+	padding-top: 50px;
+}
+
+#trivia {
+    background-image: url("../images/field.jpg");
+    color: white;
+    text-align: center;
+    width: 100%;
+	margin: 20px;
+	height: 100%;
+}
+
+#q {
+    background-color: blue;
+}
+
+#select {
+    color: blue;
+    background-color: whitesmoke;
+}
+
+#game {
+	margin-top: 60px;
+	margin-bottom: 50px;
+}
+
+
+#score {
+    background-color: black;
+    color: white;
+	font-size: 25px;
+	margin-top: 120px;
+    line-height: 2rem;
+    
+}
+
