@@ -1,1 +1,1 @@
-# TriviaGame.github.io
+# TriviaGame
